@@ -1,0 +1,10 @@
+//TEMPLATE: MUST FILL ALL THE SPACES!!!!
+//-----     <==== separates the previous item info from this one.
+//ITEM NAME, ITEM TYPE, ITEM PRICE
+//ITEM DESCRIPTION
+//IS LOW PRICED, IS LIMITED EDITION, ?INITIAL DATE, ?END DATE (dates on dd/mm format, ex.: 29/8 (29th August))
+//START AT LINE 10
+
+
+
+XD
