@@ -1,10 +1,13 @@
 //TEMPLATE: MUST FILL ALL THE SPACES!!!!
-//-----     <==== separates the previous item info from this one.
-//ITEM NAME, ITEM TYPE, ITEM PRICE
-//ITEM DESCRIPTION
-//IS LOW PRICED, IS LIMITED EDITION, ?INITIAL DATE, ?END DATE (dates on dd/mm format, ex.: 29/8 (29th August))
+//
+//ITEM TAG, ITEM NAME, ITEM TYPE, ITEM PRICE, IS LOW PRICED, IS LIMITED EDITION, ITEM DESCRIPTION, ?INITIAL DATE, ?END DATE (dates on dd/mm/aaaa format, ex.: 29/8/2024 (29th August 2024))
 //START AT LINE 10
-
-
-
-XD
+// SEPARATE EVERY DATA WITH "--".
+//
+//
+//
+//
+bf--Boyfriend--Character##Personaje--200--false--false--Insert description here##Inserta descripción aquí--null--null
+gf--Girlfriend--Character##Personaje--200--false--false--Insert description here lol##Inserta descripción aquí xd--null--null
+old-wolfy--Wolfy (2021)--Character##Personaje--150--true--false--Insert description here again##Inserta descripción aquí otra vez--null--null
+wolfy--Wolfy--Character##Personaje--300--false--false--Insert description here##Inserta descripción aquí--null--null
