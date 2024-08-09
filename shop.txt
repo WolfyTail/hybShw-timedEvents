@@ -12,5 +12,5 @@ gf--Girlfriend--Character--Personaje--200--false--false--Insert description here
 old-wolfy--Wolfy (2021)--Character--Personaje--150--true--false--Insert description here again--Inserta descripción aquí otra vez--null--null
 wolfy--Wolfy--Character--Personaje--300--false--false--Insert description here--Inserta descripción aquí--null--null
 song--"Omniscient"--Song--Canción--500--false--true--xd--lmao--null--null
-songSpecial--"Outdated"--Song--Canción--300--true--false--Testin, testin--Probando, probando--null--null
-songSpecial--"Nya Dance"--Song--Canción--300--true--false--Testin, testin--Probando, probando--null--null
+songGold--"Outdated"--Song--Canción--300--true--false--Testin, testin--Probando, probando--null--null
+songGold--"Nya Dance"--Song--Canción--300--true--false--Testin, testin--Probando, probando--null--null
