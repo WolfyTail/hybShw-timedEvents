@@ -1,0 +1,26 @@
+{
+    "items":
+    [
+        {
+            "name": "Shanta",
+            "type": ["Song", "Canción"],
+            "rarity": ["Uncommon", "Poco común"],
+            "icon": "album-00",
+            "description": [
+                "Christmas time",
+                "Hora de la Navidad"
+            ],
+            "price": 350,
+            "startTime": {
+                "day": 1,
+                "month": 1,
+                "year": 2025
+            },
+            "endTime": {
+                "day": 1,
+                "month": 1,
+                "year": 2026
+            }
+        }
+    ]
+}
