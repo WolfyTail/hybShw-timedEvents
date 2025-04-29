@@ -21,6 +21,19 @@
                 "month": 1,
                 "year": 2026
             }
+        },
+        {
+            "name": "Judgement",
+            "type": ["Song", "Canción"],
+            "rarity": ["Rare", "Raro"],
+            "icon": "album-00",
+            "description": [
+                "Seems like Myentha, the death Goddess, found where you and your friends are. She knows that something is odd with your existence, so she'll try to finish you at once.",
+                "Parece que Myentha, la diosa de la Muerte, ha encontrado dónde estás. Sabe que algo va mal con tu propia existencia, por lo que decide arrebatártela de una vez por todas."
+            ],
+            "price": 500,
+            "startTime": null,
+            "endTime": null
         }
     ]
 }
