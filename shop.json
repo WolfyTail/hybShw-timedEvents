@@ -5,7 +5,7 @@
             "name": "Shanta",
             "type": ["Song", "Canción"],
             "rarity": ["Uncommon", "Poco común"],
-            "icon": "album-01",
+            "icon": "album-00",
             "description": [
                 "Christmas time",
                 "Hora de la Navidad"
@@ -26,12 +26,25 @@
             "name": "Judgement",
             "type": ["Song", "Canción"],
             "rarity": ["Rare", "Raro"],
-            "icon": "album-01",
+            "icon": "album-00",
             "description": [
                 "Seems like Myentha, the death Goddess, found where you and your friends are. She knows that something is odd with your existence, so she'll try to finish you at once.",
                 "Parece que Myentha, la diosa de la Muerte, ha encontrado dónde estás. Sabe que algo va mal con tu propia existencia, por lo que decide arrebatártela de una vez por todas."
             ],
             "price": 500,
+            "startTime": null,
+            "endTime": null
+        },
+        {
+            "name": "Alpha version - SONG PACK",
+            "type": ["Song", "Canción"],
+            "rarity": ["Epic", "Epic"],
+            "icon": "album-01",
+            "description": [
+                "WE'RE BACK BOI! This pack includes all the three songs from the earliest version from the mod. It uses the same sprites, songs, and even the UI is changed like if you were playing on Modding+ !\n\nPACK CONTENT:\n - <YELLOW>Song:<YELLOW> Hide N' Seek (Alpha)\n - <YELLOW>Song:<YELLOW> Wasteland (Alpha)\n - <YELLOW>Song<YELLOW>: Final Battle (Alpha)\n - <YELLOW>Skin<YELLOW>: WolfyTail (2021)",
+                "¡HEMOS VUELTO CHAVALES! Este pack incluye las tres canciones de la primera versión del mod. Contiene los mismos sprites, canciones, ¡e incluso la misma interfaz usada en Modding+ !\n\nCONTENIDO DEL PACK:\n - <YELLOW>Canción:<YELLOW> Hide N' Seek (Alpha)\n - <YELLOW>Canción:<YELLOW> Wasteland (Alpha)\n - <YELLOW>Canción<YELLOW>: Final Battle (Alpha)\n - <YELLOW>Skin<YELLOW>: WolfyTail (2021)"
+            ],
+            "price": 700,
             "startTime": null,
             "endTime": null
         }
