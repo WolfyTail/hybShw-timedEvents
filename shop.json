@@ -50,7 +50,7 @@
         },
         {
             "name": "Alpha Version - SONG PACK",
-            "type": ["Song", "Canción"],
+            "type": ["Song Pack", "Pack de música"],
             "rarity": ["Epic", "Épico"],
             "icon": "album-01",
             "description": [
@@ -63,7 +63,7 @@
         },
         {
             "name": "Legacy Version - SONG PACK (VOL. 1)",
-            "type": ["Song", "Canción"],
+            "type": ["Song Pack", "Pack de música"],
             "rarity": ["Epic", "Épico"],
             "icon": "album-01",
             "description": [
@@ -76,11 +76,11 @@
         },
         {
             "name": "Legacy Version - SONG PACK (VOL. 2)",
-            "type": ["Song", "Canción"],
+            "type": ["Song Pack", "Pack de música"],
             "rarity": ["Epic", "Épico"],
             "icon": "album-01",
             "description": [
-                "Wait, is this the second week from the lecagy version? Yup! Same sprites and backgrounds, the songs are like in the original mod... It somehow feels nostalgic, don't you think?\n\nPACK CONTENT:\n - <YELLOW>Song<YELLOW>: Calligraphy (Old)\n - <YELLOW>Song<YELLOW>: The Final Story (Old)\n - <YELLOW>Song<YELLOW>: Exorcism (Old)\n - <YELLOW>Song<YELLOW>: Midnight Whispers\n - <YELLOW>Song<YELLOW>: Euler Identity",
+                "Wait, is this the second week from the legacy version? Yup! Same sprites and backgrounds, the songs are like in the original mod... It somehow feels nostalgic, don't you think?\n\nPACK CONTENT:\n - <YELLOW>Song<YELLOW>: Calligraphy (Old)\n - <YELLOW>Song<YELLOW>: The Final Story (Old)\n - <YELLOW>Song<YELLOW>: Exorcism (Old)\n - <YELLOW>Song<YELLOW>: Midnight Whispers\n - <YELLOW>Song<YELLOW>: Euler Identity",
                 "Espera, ¿esta es la segunda semana de la versión original? ¡Sep! Los mismos sprites y fondos, la música igualita que en 2022... De alguna forma se siente nostalgia, ¿no crees?\n\nCONTENIDO DEL PACK:\n - <YELLOW>Canción<YELLOW>: Calligraphy (Old)\n - <YELLOW>Canción<YELLOW>: The Final Story (Old)\n - <YELLOW>Canción<YELLOW>: Exorcism (Old)\n - <YELLOW>Canción<YELLOW>: Midnight Whispers\n - <YELLOW>Canción<YELLOW>: Euler Identity"
             ],
             "price": 750,
