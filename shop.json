@@ -10,7 +10,7 @@
                 "Christmas time",
                 "Hora de la Navidad"
             ],
-            "price": 350,
+            "price": 300,
             "startTime": {
                 "day": 1,
                 "month": 1,
@@ -36,7 +36,20 @@
             "endTime": null
         },
         {
-            "name": "Alpha version - SONG PACK",
+            "name": "Goofy Duo",
+            "type": ["Song", "Canción"],
+            "rarity": ["Mythic", "Mítico"],
+            "icon": "album-00",
+            "description": [
+                "Seems like Myentha, the death Goddess, found where you and your friends are. She knows that something is odd with your existence, so she'll try to finish you at once.",
+                "Parece que Myentha, la diosa de la Muerte, ha encontrado dónde estás. Sabe que algo va mal con tu propia existencia, por lo que decide arrebatártela de una vez por todas."
+            ],
+            "price": 1000,
+            "startTime": null,
+            "endTime": null
+        },
+        {
+            "name": "Alpha Version - SONG PACK",
             "type": ["Song", "Canción"],
             "rarity": ["Epic", "Épico"],
             "icon": "album-01",
@@ -44,9 +57,35 @@
                 "WE'RE BACK BOI! This pack includes all the three songs from the earliest version from the mod. It uses the same sprites, songs, and even the UI is changed like if you were playing on Modding+ !\n\nPACK CONTENT:\n - <YELLOW>Song:<YELLOW> Hide N' Seek (Alpha)\n - <YELLOW>Song:<YELLOW> Wasteland (Alpha)\n - <YELLOW>Song<YELLOW>: Final Battle (Alpha)\n - <YELLOW>Skin<YELLOW>: WolfyTail (2021)",
                 "¡HEMOS VUELTO CHAVALES! Este pack incluye las tres canciones de la primera versión del mod. Contiene los mismos sprites, canciones, ¡e incluso la misma interfaz usada en Modding+ !\n\nCONTENIDO DEL PACK:\n - <YELLOW>Canción:<YELLOW> Hide N' Seek (Alpha)\n - <YELLOW>Canción:<YELLOW> Wasteland (Alpha)\n - <YELLOW>Canción<YELLOW>: Final Battle (Alpha)\n - <YELLOW>Skin<YELLOW>: WolfyTail (2021)"
             ],
-            "price": 700,
+            "price": 450,
             "startTime": null,
             "endTime": null
-        }
+        },
+        {
+            "name": "Legacy Version - SONG PACK (VOL. 1)",
+            "type": ["Song", "Canción"],
+            "rarity": ["Epic", "Épico"],
+            "icon": "album-00",
+            "description": [
+                "Remade sprites, ported to Psych Engine... Looks like the mod has improved a lot since the last time. How about we celebrate it by remembering those old times from late 2021?\n\nPACK CONTENT:\n - <YELLOW>Song:<YELLOW> Hide N' Seek (Old)\n - <YELLOW>Song:<YELLOW> Wasteland (Old)\n - <YELLOW>Song<YELLOW>: Final Battle (Old)",
+                "Sprites rehechos, porteado a Psych Engine... Parece ser que el mod ha mejorado mucho desde la última vez. ¿Y qué mejor forma de celebrarlo que rememorar esos viejos recuerdos de finales de 2021?\n\nCONTENIDO DEL PACK:\n - <YELLOW>Canción:<YELLOW> Hide N' Seek (Old)\n - <YELLOW>Canción:<YELLOW> Wasteland (Old)\n - <YELLOW>Canción<YELLOW>: Final Battle (Old)"
+            ],
+            "price": 600,
+            "startTime": null,
+            "endTime": null
+        },
+        {
+            "name": "Legacy Version - SONG PACK (VOL. 2)",
+            "type": ["Song", "Canción"],
+            "rarity": ["Epic", "Épico"],
+            "icon": "album-00",
+            "description": [
+                "Wait, is this the second week from the lecagy version? Yup! Same sprites and backgrounds, the songs are like in the original mod... It somehow feels nostalgic, don't you think?\n\nPACK CONTENT:\n - <YELLOW>Song<YELLOW>: Calligraphy (Old)\n - <YELLOW>Song<YELLOW>: The Final Story (Old)\n - <YELLOW>Song<YELLOW>: Exorcism (Old)\n - <YELLOW>Song<YELLOW>: Midnight Whispers\n - <YELLOW>Song<YELLOW>: Euler Identity",
+                "Espera, ¿esta es la segunda semana de la versión original? ¡Sep! Los mismos sprites y fondos, la música igualita que en 2022... De alguna forma se siente nostalgia, ¿no crees?\n\nCONTENIDO DEL PACK:\n - <YELLOW>Canción<YELLOW>: Calligraphy (Old)\n - <YELLOW>Canción<YELLOW>: The Final Story (Old)\n - <YELLOW>Canción<YELLOW>: Exorcism (Old)\n - <YELLOW>Canción<YELLOW>: Midnight Whispers\n - <YELLOW>Canción<YELLOW>: Euler Identity"
+            ],
+            "price": 750,
+            "startTime": null,
+            "endTime": null
+        },
     ]
 }
