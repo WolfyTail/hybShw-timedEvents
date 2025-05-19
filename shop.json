@@ -23,15 +23,15 @@
             }
         },
         {
-            "name": "Judgement",
+            "name": "Exorcism",
             "type": ["Song", "Canción"],
             "rarity": ["Rare", "Raro"],
             "icon": "album-00",
             "description": [
-                "Seems like Myentha, the death Goddess, found where you and your friends are. She knows that something is odd with your existence, so she'll try to finish you at once.",
-                "Parece que Myentha, la diosa de la Muerte, ha encontrado dónde estás. Sabe que algo va mal con tu propia existencia, por lo que decide arrebatártela de una vez por todas."
+                "Exorcism but the newer version (if you can't wait until 2.0 releases, you can play it here)",
+                "'Exorcism' pero la nueva versión (si no puedes esperar hasta que salga la 2.0, puedes jugarlo aquí)"
             ],
-            "price": 500,
+            "price": 350,
             "startTime": null,
             "endTime": null
         },
@@ -44,7 +44,7 @@
                 "Seems like Myentha, the death Goddess, found where you and your friends are. She knows that something is odd with your existence, so she'll try to finish you at once.",
                 "Parece que Myentha, la diosa de la Muerte, ha encontrado dónde estás. Sabe que algo va mal con tu propia existencia, por lo que decide arrebatártela de una vez por todas."
             ],
-            "price": 1000,
+            "price": 6969,
             "startTime": null,
             "endTime": null
         },
