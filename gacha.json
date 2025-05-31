@@ -8,8 +8,16 @@
         "Los recuerdos fluyen a tu alrededor, rompiendo, conectando y convergiendo el el flujo del tiempo. ¿Cuál ha venido a tu mente?"
       ],
       "items": [
-        
-      ]
-    }
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "startTime": null,
+      "endTime": null,
+      "pull_price": 400
   ]
 }
