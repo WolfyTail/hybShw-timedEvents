@@ -36,6 +36,19 @@
             "endTime": null
         },
         {
+            "name": "Omniscient",
+            "type": ["Song", "Canción"],
+            "rarity": ["Epic", "Épico"],
+            "icon": "album-00",
+            "description": [
+                "An 'Omnipresent' cover composed originally by Iamdadoge. In the original song, all the Sonic.EXE cast sings it. In this case, it seems that the Hybrids wanted to challenge you. Get ready, because these will be the longest 14 minutes of your life.",
+                "Una cover de la canción 'Omnipresent' compuesta por Iamdadoge. En la versión original, todo el casting del mod de Sonic.EXE lo canta. En este caso, parece ser que todos los Hybrids se han puesto de acuerdo para desafiarte a la vez. prepárate, porque serán los 14 minutos más largos de tu vida."
+            ],
+            "price": 500,
+            "startTime": null,
+            "endTime": null
+        },
+        {
             "name": "Goofy Duo",
             "type": ["Song", "Canción"],
             "rarity": ["Wolfic", "Wólfico"],
