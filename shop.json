@@ -7,20 +7,38 @@
             "rarity": ["Uncommon", "Poco común"],
             "icon": "album-00",
             "description": [
-                "Christmas time",
-                "Hora de la Navidad"
+                "IT'S CHRISTMAS! However, it looks that Jack doesn't like to celebrate it, so he decided to kidnap Yuki (for no reason) and battle against Wolfy, Light and Myllie. Light might be a pro player at Fortnite, but I'm not sure if he should hold a gun as he does...",
+                "¡ES NAVIDAD! Aún así, parece que a Jack no le gusta celebrarla, por lo que decide secuestrar a Yuki (sin razón aparente) y luchar contra Wolfy, Light y Myllie. Es cierto que Light es un pro jugando a Fortnite, pero no creo que deba sujetar una pistola como lo hace..."
             ],
             "price": 300,
-            "startTime": {
-                "day": 1,
-                "month": 1,
-                "year": 2025
-            },
-            "endTime": {
-                "day": 1,
-                "month": 1,
-                "year": 2026
-            }
+            "startTime": null,
+            "endTime": null
+        },
+        {
+            "name": "Fire In The Hole",
+            "type": ["Song", "Canción"],
+            "rarity": ["Uncommon", "Poco común"],
+            "icon": "album-00",
+            "description": [
+                "FIRE IN THE HOLE!!1!!1",
+                "Estoy tan harto del meme que he hecho una cover xd"
+            ],
+            "price": 250,
+            "startTime": null,
+            "endTime": null
+        },
+        {
+            "name": "Unreal",
+            "type": ["Song", "Canción"],
+            "rarity": ["Rare", "Raro"],
+            "icon": "album-00",
+            "description": [
+                "Looks like Light's experiment gone wrong, and you're trapped inside your computer. Desperate, you look around for help, until you see a mysterious girl in front of you.",
+                "arece que el experimento de Light ha ido mal, y te has quedado atrapado en el interior de tu ordenador. Desesperadamente miras a tu alrededor en busca de ayuda, hasta que te fijas en la chica que tienes delante, la cual no deja de mirarte fijamente."
+            ],
+            "price": 250,
+            "startTime": null,
+            "endTime": null
         },
         {
             "name": "Exorcism",
@@ -102,3 +120,4 @@
         }
     ]
 }
+
